@@ -24,3 +24,4 @@
 ## Remote commands
 * **git clone** to download smb's files
 * **git push** to upload your files
+*  Check if the changes pull to my local version.
