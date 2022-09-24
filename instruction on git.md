@@ -21,3 +21,6 @@
 * **git branch -D name** to delete the branch dispite smth wrong
 * **git log --graph** to see the commits and their relation to different states before and after merge
 * **clear** to clear the window of the terminal
+## Remote commands
+* **git clone** to download smb's files
+* **git push** to upload your files
